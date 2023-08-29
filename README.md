@@ -4,7 +4,6 @@
 
 💊 Bachelor's Degree in Pharmacy<br>
 💻 Experienced in python, data visualization, data analytics and machine learning libraries<br>
-🔭 Currently working on a project using SQL and Tableau<br>
 🔍 Currently searching for a full-time opportunity in data science/analysis<br><br>
 
 ## 🌐 Socials:
