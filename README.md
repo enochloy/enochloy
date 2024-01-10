@@ -4,7 +4,6 @@
 
 💊 Bachelor's Degree in Pharmacy<br>
 💻 Experienced in Python, SQL, data visualization, data analytics and machine learning libraries<br>
-🔍 Currently searching for a full-time opportunity in data science/analysis<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enoch-loy) 
